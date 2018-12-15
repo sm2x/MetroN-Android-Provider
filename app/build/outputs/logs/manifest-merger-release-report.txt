@@ -1,0 +1,683 @@
+-- Merging decision tree log ---
+manifest
+ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:2:1-167:12
+INJECTED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:2:1-167:12
+INJECTED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:2:1-167:12
+INJECTED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:2:1-167:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\9b9197eb0b74bb95cf023afa73ba5f75\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\a0aef565cb094dca248110254d01fe68\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\d85530bb74185c456802040802785dfa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-plus:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-plus-11.6.0.aar\a5139627866084203095176a3d16f692\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-auth:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.6.0.aar\e21774f3425416ebc1dfe076025efce7\AndroidManifest.xml:16:1-26:12
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.0.aar\3f570773a10451a4a0ad407d29b5d692\AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-location:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-location-11.6.0.aar\6e148b3acefbdf9e199b2bf7beba6b35\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-gcm:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.6.0.aar\ce6262eb2ac85d5686296ec23736a125\AndroidManifest.xml:16:1-24:12
+MERGED from [de.hdodenhof:circleimageview:2.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\circleimageview-2.0.0.aar\8a9acc4e968f6c8748c6c7182013381f\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.android:facebook-android-sdk:4.16.1] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.16.1.aar\9226a65ca9cf2ff1dfa6b397fadf1e2d\AndroidManifest.xml:21:1-40:12
+MERGED from [com.soundcloud.android:android-crop:1.0.1] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\android-crop-1.0.1.aar\0aab2449cf3e5e286376826ad8ed1314\AndroidManifest.xml:2:1-10:12
+MERGED from [com.aurelhubert:simpleratingbar:0.1.5] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\simpleratingbar-0.1.5.aar\99e5b0aee9fb6f0443516a854e6695f9\AndroidManifest.xml:2:1-17:12
+MERGED from [com.mikhaellopez:circularprogressbar:1.1.1] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\circularprogressbar-1.1.1.aar\a1066826da803caf4815db0b3cb7f302\AndroidManifest.xml:2:1-14:12
+MERGED from [id.zelory:compressor:1.0.3] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\compressor-1.0.3.aar\9b6338691426baecd2ca3fbe4f20b509\AndroidManifest.xml:2:1-12:12
+MERGED from [com.patrickpissurno:ripple-effect:1.3.1] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\ripple-effect-1.3.1.aar\b1e1ec753aae96ece5563656461cf260\AndroidManifest.xml:2:1-14:12
+MERGED from [com.gdacciaro:iosdialog:1.0.2] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\iosdialog-1.0.2.aar\57084eb11aaf66b06493da0fdb72ef8b\AndroidManifest.xml:2:1-17:12
+MERGED from [com.wang.avi:library:2.1.3] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\library-2.1.3.aar\d1ffddf9471eec5d585e5e4386a387f1\AndroidManifest.xml:2:1-11:12
+MERGED from [:reclv_animation] W:\Nikola crypto\smartcar_crypto_android_provider\reclv_animation\build\intermediates\manifests\full\release\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\a0716d718c4ecfa2330f5b0ccb09fea3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\358b7a06ff15991b06f494333de2ca84\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:23.4.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\customtabs-23.4.0.aar\1a51cf13836d2c40ead5174e4545b455\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\9ab37a4c64a1964ce6d87fde6ebc35c4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\072897eded304a53169963b9a2130234\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-11.6.0.aar\0958d38a5e570510c1bc19f6d9609834\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.android.gms:play-services-auth-base:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-11.6.0.aar\8f224d55748e91d29ac5caacaba24005\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-iid:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.6.0.aar\d22cdce03e8b7e7c161078f226b51b99\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.0.aar\3c5b54f556eb84c33b8fcaa97b917284\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.0.aar\d0aef4edddc4d8eb37ef1d6dc27081a8\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\fc685cfd5baac9697267551925c90816\AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\76e102bd6560aa70534b94d1c484c7a2\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\6dd2ec0558541e7b88cd929a9710313d\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\d8e2febf48e9d081df8daf7656e950a8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\d1fa286f3531c8a67e37e08573ee8784\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\04fc5b7be87566b14c9e1a0b7bb9502b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\b977312dedb9645b756d2ad461776832\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\d1d66e0f759099c2f2b2915fb6033ee5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\d82a2228c82e6d5edc69f3132994a830\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\6741911d64ebf6c291c75b00375a5ea4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\7a3f8372a7f0732a63952b6a38919165\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\2eb3afae7ae639ee08c41506438d4b32\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\d73cc218367f9f5745567b9bf8d509c9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\eb578b744e6b0aec5921cf9b15ddcd12\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\52a6cebbc80655e354a451884606b6cd\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\0122f3f5e93ad2585596b3c563c56f38\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\b8a50b6840fbe7105cb84036654bd87f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\07b9525f9d019717cb7e7d8cbba3d4ee\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\464219b6371795549797128d875ac7c6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\318ae0e08a2b610982def0177fddda55\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\4c1347d1a7d5835dcc2258866da61dbe\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\1147c3e040297ecd850cc7f8b4c69308\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\e2afc9d090f6ef2950d58e380e64d6de\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\765a5145e30bf0682c239496c68ce2de\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\82ee34f2921e8957cbd713fe95af10b6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\666cc39739219d8a72a691ee2e050f67\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\4b2a26132d8ce2abda86bc396f986bf5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-plus-license:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-plus-license-11.6.0.aar\2108fa6a5da81ec3751a1be92d988249\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.6.0.aar\017095c5cd8fcd48d63c33b4e26d6e66\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-location-license:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.6.0.aar\434fe3eb74a2b6beba5677fd4cc307d3\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-gcm-license:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-gcm-license-11.6.0.aar\cd48fc1d1c959a9031db7f3c292059e2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.0.aar\0c1172dadcadd500f136ee304c800a74\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.0.aar\224c720d44a3e889123c2677453d8bb5\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-license-11.6.0.aar\6b6b09656887e4e53dcb2eb86253fe2e\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-license-11.6.0.aar\32302cb64e75b6aee722e6f04b636352\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.0.aar\0b9e5359b4054840184dd8a4ea50a599\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-iid-license:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-iid-license-11.6.0.aar\624be6b50731c75a4a46e5b52affb830\AndroidManifest.xml:2:1-6:12
+INJECTED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:2:1-167:12
+INJECTED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:2:1-167:12
+INJECTED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:2:1-167:12
+	package
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:4:5-34
+		INJECTED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml
+		INJECTED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:2:1-167:12
+		INJECTED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:2:1-167:12
+		INJECTED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:6:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.0.aar\3f570773a10451a4a0ad407d29b5d692\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.0.aar\3f570773a10451a4a0ad407d29b5d692\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-gcm:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.6.0.aar\ce6262eb2ac85d5686296ec23736a125\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-gcm:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.6.0.aar\ce6262eb2ac85d5686296ec23736a125\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.6.0.aar\d22cdce03e8b7e7c161078f226b51b99\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.6.0.aar\d22cdce03e8b7e7c161078f226b51b99\AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.0.aar\3f570773a10451a4a0ad407d29b5d692\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.0.aar\3f570773a10451a4a0ad407d29b5d692\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:9:22-73
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.CALL_PHONE
+ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:12:5-69
+	android:name
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:12:22-66
+uses-permission#android.permission.VIBRATE
+ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:13:5-66
+	android:name
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:13:22-63
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:14:5-71
+	android:name
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:14:22-68
+uses-permission#android.permission.CAMERA
+ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:15:5-65
+	android:name
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:15:22-62
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:16:22-78
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:17:5-74
+	android:name
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:17:22-71
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:18:5-98
+	android:name
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:18:22-95
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:19:5-82
+MERGED from [com.google.android.gms:play-services-gcm:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.6.0.aar\ce6262eb2ac85d5686296ec23736a125\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-gcm:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.6.0.aar\ce6262eb2ac85d5686296ec23736a125\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.6.0.aar\d22cdce03e8b7e7c161078f226b51b99\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.6.0.aar\d22cdce03e8b7e7c161078f226b51b99\AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:19:22-79
+uses-permission#android.permission.WAKE_LOCK
+ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:20:5-68
+	android:name
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:20:22-65
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:21:5-75
+	android:name
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:21:22-72
+uses-permission#android.permission.READ_CONTACTS
+ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:22:5-72
+	android:name
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:22:22-69
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:23:5-71
+	android:name
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:23:22-68
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:24:5-78
+	android:name
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:24:22-75
+permission#com.tronline.driver.permission.C2D_MESSAGE
+ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:26:5-28:47
+	android:protectionLevel
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:28:9-44
+	android:name
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:27:9-66
+uses-feature#0x00020000
+ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:30:5-32:35
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.0.aar\3f570773a10451a4a0ad407d29b5d692\AndroidManifest.xml:21:5-77
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.0.aar\3f570773a10451a4a0ad407d29b5d692\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:31:9-41
+	android:required
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:32:9-32
+application
+ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:34:5-165:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\9b9197eb0b74bb95cf023afa73ba5f75\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\9b9197eb0b74bb95cf023afa73ba5f75\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-plus-11.6.0.aar\a5139627866084203095176a3d16f692\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-plus-11.6.0.aar\a5139627866084203095176a3d16f692\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-auth:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.6.0.aar\e21774f3425416ebc1dfe076025efce7\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-auth:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.6.0.aar\e21774f3425416ebc1dfe076025efce7\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.0.aar\3f570773a10451a4a0ad407d29b5d692\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.0.aar\3f570773a10451a4a0ad407d29b5d692\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-location:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-location-11.6.0.aar\6e148b3acefbdf9e199b2bf7beba6b35\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-location:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-location-11.6.0.aar\6e148b3acefbdf9e199b2bf7beba6b35\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gcm:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.6.0.aar\ce6262eb2ac85d5686296ec23736a125\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-gcm:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.6.0.aar\ce6262eb2ac85d5686296ec23736a125\AndroidManifest.xml:23:5-19
+MERGED from [de.hdodenhof:circleimageview:2.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\circleimageview-2.0.0.aar\8a9acc4e968f6c8748c6c7182013381f\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\circleimageview-2.0.0.aar\8a9acc4e968f6c8748c6c7182013381f\AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.android:facebook-android-sdk:4.16.1] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.16.1.aar\9226a65ca9cf2ff1dfa6b397fadf1e2d\AndroidManifest.xml:28:5-38:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.16.1] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.16.1.aar\9226a65ca9cf2ff1dfa6b397fadf1e2d\AndroidManifest.xml:28:5-38:19
+MERGED from [com.aurelhubert:simpleratingbar:0.1.5] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\simpleratingbar-0.1.5.aar\99e5b0aee9fb6f0443516a854e6695f9\AndroidManifest.xml:11:5-15:19
+MERGED from [com.aurelhubert:simpleratingbar:0.1.5] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\simpleratingbar-0.1.5.aar\99e5b0aee9fb6f0443516a854e6695f9\AndroidManifest.xml:11:5-15:19
+MERGED from [com.mikhaellopez:circularprogressbar:1.1.1] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\circularprogressbar-1.1.1.aar\a1066826da803caf4815db0b3cb7f302\AndroidManifest.xml:12:5-20
+MERGED from [com.mikhaellopez:circularprogressbar:1.1.1] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\circularprogressbar-1.1.1.aar\a1066826da803caf4815db0b3cb7f302\AndroidManifest.xml:12:5-20
+MERGED from [com.patrickpissurno:ripple-effect:1.3.1] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\ripple-effect-1.3.1.aar\b1e1ec753aae96ece5563656461cf260\AndroidManifest.xml:12:5-20
+MERGED from [com.patrickpissurno:ripple-effect:1.3.1] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\ripple-effect-1.3.1.aar\b1e1ec753aae96ece5563656461cf260\AndroidManifest.xml:12:5-20
+MERGED from [com.gdacciaro:iosdialog:1.0.2] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\iosdialog-1.0.2.aar\57084eb11aaf66b06493da0fdb72ef8b\AndroidManifest.xml:11:5-15:19
+MERGED from [com.gdacciaro:iosdialog:1.0.2] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\iosdialog-1.0.2.aar\57084eb11aaf66b06493da0fdb72ef8b\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:customtabs:23.4.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\customtabs-23.4.0.aar\1a51cf13836d2c40ead5174e4545b455\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:customtabs:23.4.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\customtabs-23.4.0.aar\1a51cf13836d2c40ead5174e4545b455\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.6.0.aar\d22cdce03e8b7e7c161078f226b51b99\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-iid:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.6.0.aar\d22cdce03e8b7e7c161078f226b51b99\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.0.aar\3c5b54f556eb84c33b8fcaa97b917284\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.0.aar\3c5b54f556eb84c33b8fcaa97b917284\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.0.aar\d0aef4edddc4d8eb37ef1d6dc27081a8\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.0.aar\d0aef4edddc4d8eb37ef1d6dc27081a8\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\fc685cfd5baac9697267551925c90816\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\fc685cfd5baac9697267551925c90816\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\76e102bd6560aa70534b94d1c484c7a2\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\76e102bd6560aa70534b94d1c484c7a2\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\6dd2ec0558541e7b88cd929a9710313d\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\6dd2ec0558541e7b88cd929a9710313d\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\52a6cebbc80655e354a451884606b6cd\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\52a6cebbc80655e354a451884606b6cd\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\0122f3f5e93ad2585596b3c563c56f38\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\0122f3f5e93ad2585596b3c563c56f38\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-plus-license:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-plus-license-11.6.0.aar\2108fa6a5da81ec3751a1be92d988249\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-plus-license:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-plus-license-11.6.0.aar\2108fa6a5da81ec3751a1be92d988249\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.6.0.aar\017095c5cd8fcd48d63c33b4e26d6e66\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.6.0.aar\017095c5cd8fcd48d63c33b4e26d6e66\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-location-license:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.6.0.aar\434fe3eb74a2b6beba5677fd4cc307d3\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-location-license:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.6.0.aar\434fe3eb74a2b6beba5677fd4cc307d3\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-gcm-license-11.6.0.aar\cd48fc1d1c959a9031db7f3c292059e2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-gcm-license-11.6.0.aar\cd48fc1d1c959a9031db7f3c292059e2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.0.aar\0c1172dadcadd500f136ee304c800a74\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.0.aar\0c1172dadcadd500f136ee304c800a74\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.0.aar\224c720d44a3e889123c2677453d8bb5\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.0.aar\224c720d44a3e889123c2677453d8bb5\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-license-11.6.0.aar\6b6b09656887e4e53dcb2eb86253fe2e\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-license-11.6.0.aar\6b6b09656887e4e53dcb2eb86253fe2e\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-license-11.6.0.aar\32302cb64e75b6aee722e6f04b636352\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-license-11.6.0.aar\32302cb64e75b6aee722e6f04b636352\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.0.aar\0b9e5359b4054840184dd8a4ea50a599\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.0.aar\0b9e5359b4054840184dd8a4ea50a599\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-iid-license-11.6.0.aar\624be6b50731c75a4a46e5b52affb830\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-iid-license-11.6.0.aar\624be6b50731c75a4a46e5b52affb830\AndroidManifest.xml:5:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\52a6cebbc80655e354a451884606b6cd\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:41:9-35
+	android:label
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:38:9-41
+	android:largeHeap
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:39:9-33
+	android:icon
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:37:9-43
+	android:allowBackup
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:36:9-36
+		REJECTED from [com.aurelhubert:simpleratingbar:0.1.5] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\simpleratingbar-0.1.5.aar\99e5b0aee9fb6f0443516a854e6695f9\AndroidManifest.xml:12:9-35
+		REJECTED from [com.gdacciaro:iosdialog:1.0.2] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\iosdialog-1.0.2.aar\57084eb11aaf66b06493da0fdb72ef8b\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:42:9-48
+	tools:replace
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:43:9-44
+	android:usesCleartextTraffic
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:40:9-44
+	android:name
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:35:9-61
+uses-library#org.apache.http.legacy
+ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:45:9-46:40
+	android:required
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:45:23-60
+activity#com.tronline.driver.activity.SplashActivity
+ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:48:9-50:20
+	android:screenOrientation
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:49:13-49
+	android:name
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:48:19-77
+activity#com.tronline.driver.activity.SplashAnimation
+ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:52:9-59:20
+	android:screenOrientation
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:53:13-49
+	android:name
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:52:19-78
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:54:13-58:29
+action#android.intent.action.MAIN
+ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:55:17-69
+	android:name
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:55:25-66
+category#android.intent.category.LAUNCHER
+ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:57:17-77
+	android:name
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:57:27-74
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:61:9-63:55
+	android:value
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:63:13-52
+	android:name
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:62:13-58
+activity#com.tronline.driver.activity.MainActivity
+ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:65:9-69:70
+	android:screenOrientation
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:67:13-49
+	android:windowSoftInputMode
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:69:13-67
+	android:theme
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:68:13-52
+	android:name
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:66:13-69
+activity#com.tronline.driver.activity.WelcomeActivity
+ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:70:9-74:57
+	android:screenOrientation
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:72:13-49
+	android:windowSoftInputMode
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:74:13-54
+	android:theme
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:73:13-52
+	android:name
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:71:13-72
+activity#com.tronline.driver.activity.LoginActivity
+ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:75:9-79:57
+	android:screenOrientation
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:77:13-49
+	android:windowSoftInputMode
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:79:13-54
+	android:theme
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:78:13-52
+	android:name
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:76:13-70
+activity#com.tronline.driver.activity.ChatActivity
+ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:80:9-84:57
+	android:screenOrientation
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:82:13-49
+	android:windowSoftInputMode
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:84:13-54
+	android:theme
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:83:13-52
+	android:name
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:81:13-69
+activity#com.tronline.driver.activity.ProfileActivity
+ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:85:9-89:57
+	android:screenOrientation
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:87:13-49
+	android:windowSoftInputMode
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:89:13-54
+	android:theme
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:88:13-52
+	android:name
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:86:13-72
+activity#com.tronline.driver.activity.UploadDocActivity
+ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:91:9-95:57
+	android:screenOrientation
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:93:13-49
+	android:windowSoftInputMode
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:95:13-54
+	android:theme
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:94:13-52
+	android:name
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:92:13-74
+activity#com.tronline.driver.activity.HelpwebActivity
+ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:97:9-101:57
+	android:screenOrientation
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:99:13-49
+	android:windowSoftInputMode
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:101:13-54
+	android:theme
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:100:13-52
+	android:name
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:98:13-72
+activity#com.tronline.driver.activity.SearchPlaceActivity
+ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:102:9-106:57
+	android:screenOrientation
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:104:13-49
+	android:windowSoftInputMode
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:106:13-54
+	android:theme
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:105:13-52
+	android:name
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:103:13-76
+activity#com.facebook.FacebookActivity
+ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:107:9-112:45
+MERGED from [com.facebook.android:facebook-android-sdk:4.16.1] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.16.1.aar\9226a65ca9cf2ff1dfa6b397fadf1e2d\AndroidManifest.xml:29:9-32:66
+MERGED from [com.facebook.android:facebook-android-sdk:4.16.1] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.16.1.aar\9226a65ca9cf2ff1dfa6b397fadf1e2d\AndroidManifest.xml:29:9-32:66
+	android:label
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:110:13-45
+	android:configChanges
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:109:13-96
+	android:theme
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:111:13-72
+		REJECTED from [com.facebook.android:facebook-android-sdk:4.16.1] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.16.1.aar\9226a65ca9cf2ff1dfa6b397fadf1e2d\AndroidManifest.xml:32:13-63
+	tools:replace
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:112:13-42
+	android:name
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:108:13-57
+activity#com.soundcloud.android.crop.CropImageActivity
+ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:113:9-82
+	android:name
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:113:19-79
+receiver#com.google.android.gms.gcm.GcmReceiver
+ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:115:9-124:20
+	android:exported
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:117:13-36
+	android:permission
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:118:13-73
+	android:name
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:116:13-66
+intent-filter#com.google.android.c2dm.intent.RECEIVE+com.nikola.driver
+ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:119:13-123:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:120:17-81
+	android:name
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:120:25-78
+category#com.nikola.driver
+ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:122:17-62
+	android:name
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:122:27-59
+receiver#com.tronline.driver.gcmHandlers.OnBootBroadcastReceiver
+ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:125:9-131:20
+	android:name
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:125:19-89
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.category.HOME
+ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:126:13-130:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:127:17-79
+	android:name
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:127:25-76
+category#android.intent.category.HOME
+ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:129:17-73
+	android:name
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:129:27-70
+service#com.tronline.driver.gcmHandlers.GCMIntentService
+ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:133:9-142:19
+	android:exported
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:135:13-37
+	android:name
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:134:13-76
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.category.DEFAULT+com.google.android.c2dm.intent.RECEIVE
+ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:136:13-141:29
+category#android.intent.category.DEFAULT
+ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:140:17-76
+	android:name
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:140:27-73
+service#com.tronline.driver.utils.chathead.ChatHeadService
+ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:143:9-94
+	android:name
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:143:18-83
+meta-data#com.google.android.maps.v2.API_KEY
+ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:146:9-148:47
+	android:value
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:148:13-44
+	android:name
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:147:13-62
+activity#com.tronline.driver.activity.StatusAvailabilityActivity
+ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:150:9-154:25
+	android:screenOrientation
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:152:13-49
+	android:parentActivityName
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:153:13-83
+	android:theme
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:151:13-52
+	android:name
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:150:19-89
+activity#com.tronline.driver.activity.HistoryActivity
+ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:155:9-159:25
+	android:screenOrientation
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:157:13-49
+	android:parentActivityName
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:158:13-83
+	android:theme
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:156:13-52
+	android:name
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:155:19-78
+activity#com.tronline.driver.activity.EarningsActivity
+ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:160:9-164:25
+	android:screenOrientation
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:162:13-49
+	android:parentActivityName
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:163:13-83
+	android:theme
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:161:13-52
+	android:name
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml:160:19-79
+uses-sdk
+INJECTED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml
+INJECTED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\9b9197eb0b74bb95cf023afa73ba5f75\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\9b9197eb0b74bb95cf023afa73ba5f75\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\a0aef565cb094dca248110254d01fe68\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\a0aef565cb094dca248110254d01fe68\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\d85530bb74185c456802040802785dfa\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\d85530bb74185c456802040802785dfa\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-plus:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-plus-11.6.0.aar\a5139627866084203095176a3d16f692\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-plus-11.6.0.aar\a5139627866084203095176a3d16f692\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.6.0.aar\e21774f3425416ebc1dfe076025efce7\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.6.0.aar\e21774f3425416ebc1dfe076025efce7\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.0.aar\3f570773a10451a4a0ad407d29b5d692\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.0.aar\3f570773a10451a4a0ad407d29b5d692\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-location:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-location-11.6.0.aar\6e148b3acefbdf9e199b2bf7beba6b35\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-location-11.6.0.aar\6e148b3acefbdf9e199b2bf7beba6b35\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gcm:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.6.0.aar\ce6262eb2ac85d5686296ec23736a125\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gcm:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.6.0.aar\ce6262eb2ac85d5686296ec23736a125\AndroidManifest.xml:17:5-43
+MERGED from [de.hdodenhof:circleimageview:2.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\circleimageview-2.0.0.aar\8a9acc4e968f6c8748c6c7182013381f\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\circleimageview-2.0.0.aar\8a9acc4e968f6c8748c6c7182013381f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.16.1] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.16.1.aar\9226a65ca9cf2ff1dfa6b397fadf1e2d\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.16.1] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.16.1.aar\9226a65ca9cf2ff1dfa6b397fadf1e2d\AndroidManifest.xml:24:5-26:41
+MERGED from [com.soundcloud.android:android-crop:1.0.1] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\android-crop-1.0.1.aar\0aab2449cf3e5e286376826ad8ed1314\AndroidManifest.xml:6:5-8:41
+MERGED from [com.soundcloud.android:android-crop:1.0.1] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\android-crop-1.0.1.aar\0aab2449cf3e5e286376826ad8ed1314\AndroidManifest.xml:6:5-8:41
+MERGED from [com.aurelhubert:simpleratingbar:0.1.5] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\simpleratingbar-0.1.5.aar\99e5b0aee9fb6f0443516a854e6695f9\AndroidManifest.xml:7:5-9:41
+MERGED from [com.aurelhubert:simpleratingbar:0.1.5] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\simpleratingbar-0.1.5.aar\99e5b0aee9fb6f0443516a854e6695f9\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mikhaellopez:circularprogressbar:1.1.1] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\circularprogressbar-1.1.1.aar\a1066826da803caf4815db0b3cb7f302\AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikhaellopez:circularprogressbar:1.1.1] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\circularprogressbar-1.1.1.aar\a1066826da803caf4815db0b3cb7f302\AndroidManifest.xml:8:5-10:41
+MERGED from [id.zelory:compressor:1.0.3] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\compressor-1.0.3.aar\9b6338691426baecd2ca3fbe4f20b509\AndroidManifest.xml:8:5-10:41
+MERGED from [id.zelory:compressor:1.0.3] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\compressor-1.0.3.aar\9b6338691426baecd2ca3fbe4f20b509\AndroidManifest.xml:8:5-10:41
+MERGED from [com.patrickpissurno:ripple-effect:1.3.1] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\ripple-effect-1.3.1.aar\b1e1ec753aae96ece5563656461cf260\AndroidManifest.xml:8:5-10:41
+MERGED from [com.patrickpissurno:ripple-effect:1.3.1] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\ripple-effect-1.3.1.aar\b1e1ec753aae96ece5563656461cf260\AndroidManifest.xml:8:5-10:41
+MERGED from [com.gdacciaro:iosdialog:1.0.2] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\iosdialog-1.0.2.aar\57084eb11aaf66b06493da0fdb72ef8b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.gdacciaro:iosdialog:1.0.2] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\iosdialog-1.0.2.aar\57084eb11aaf66b06493da0fdb72ef8b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.wang.avi:library:2.1.3] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\library-2.1.3.aar\d1ffddf9471eec5d585e5e4386a387f1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.wang.avi:library:2.1.3] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\library-2.1.3.aar\d1ffddf9471eec5d585e5e4386a387f1\AndroidManifest.xml:7:5-9:41
+MERGED from [:reclv_animation] W:\Nikola crypto\smartcar_crypto_android_provider\reclv_animation\build\intermediates\manifests\full\release\AndroidManifest.xml:8:5-10:41
+MERGED from [:reclv_animation] W:\Nikola crypto\smartcar_crypto_android_provider\reclv_animation\build\intermediates\manifests\full\release\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\a0716d718c4ecfa2330f5b0ccb09fea3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\a0716d718c4ecfa2330f5b0ccb09fea3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\358b7a06ff15991b06f494333de2ca84\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\358b7a06ff15991b06f494333de2ca84\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:23.4.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\customtabs-23.4.0.aar\1a51cf13836d2c40ead5174e4545b455\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:23.4.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\customtabs-23.4.0.aar\1a51cf13836d2c40ead5174e4545b455\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\9ab37a4c64a1964ce6d87fde6ebc35c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\9ab37a4c64a1964ce6d87fde6ebc35c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\072897eded304a53169963b9a2130234\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\072897eded304a53169963b9a2130234\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-11.6.0.aar\0958d38a5e570510c1bc19f6d9609834\AndroidManifest.xml:3:3-41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-11.6.0.aar\0958d38a5e570510c1bc19f6d9609834\AndroidManifest.xml:3:3-41
+MERGED from [com.google.android.gms:play-services-auth-base:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-11.6.0.aar\8f224d55748e91d29ac5caacaba24005\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-11.6.0.aar\8f224d55748e91d29ac5caacaba24005\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-iid:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.6.0.aar\d22cdce03e8b7e7c161078f226b51b99\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.6.0.aar\d22cdce03e8b7e7c161078f226b51b99\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.0.aar\3c5b54f556eb84c33b8fcaa97b917284\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.0.aar\3c5b54f556eb84c33b8fcaa97b917284\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.0.aar\d0aef4edddc4d8eb37ef1d6dc27081a8\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.0.aar\d0aef4edddc4d8eb37ef1d6dc27081a8\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\fc685cfd5baac9697267551925c90816\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\fc685cfd5baac9697267551925c90816\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\76e102bd6560aa70534b94d1c484c7a2\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\76e102bd6560aa70534b94d1c484c7a2\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\6dd2ec0558541e7b88cd929a9710313d\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\6dd2ec0558541e7b88cd929a9710313d\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\d8e2febf48e9d081df8daf7656e950a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\d8e2febf48e9d081df8daf7656e950a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\d1fa286f3531c8a67e37e08573ee8784\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\d1fa286f3531c8a67e37e08573ee8784\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\04fc5b7be87566b14c9e1a0b7bb9502b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\04fc5b7be87566b14c9e1a0b7bb9502b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\b977312dedb9645b756d2ad461776832\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\b977312dedb9645b756d2ad461776832\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\d1d66e0f759099c2f2b2915fb6033ee5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\d1d66e0f759099c2f2b2915fb6033ee5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\d82a2228c82e6d5edc69f3132994a830\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\d82a2228c82e6d5edc69f3132994a830\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\6741911d64ebf6c291c75b00375a5ea4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\6741911d64ebf6c291c75b00375a5ea4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\7a3f8372a7f0732a63952b6a38919165\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\7a3f8372a7f0732a63952b6a38919165\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\2eb3afae7ae639ee08c41506438d4b32\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\2eb3afae7ae639ee08c41506438d4b32\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\d73cc218367f9f5745567b9bf8d509c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\d73cc218367f9f5745567b9bf8d509c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\eb578b744e6b0aec5921cf9b15ddcd12\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\eb578b744e6b0aec5921cf9b15ddcd12\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\52a6cebbc80655e354a451884606b6cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\52a6cebbc80655e354a451884606b6cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\0122f3f5e93ad2585596b3c563c56f38\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\0122f3f5e93ad2585596b3c563c56f38\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\b8a50b6840fbe7105cb84036654bd87f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\b8a50b6840fbe7105cb84036654bd87f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\07b9525f9d019717cb7e7d8cbba3d4ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\07b9525f9d019717cb7e7d8cbba3d4ee\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\464219b6371795549797128d875ac7c6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\464219b6371795549797128d875ac7c6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\318ae0e08a2b610982def0177fddda55\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\318ae0e08a2b610982def0177fddda55\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\4c1347d1a7d5835dcc2258866da61dbe\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\4c1347d1a7d5835dcc2258866da61dbe\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\1147c3e040297ecd850cc7f8b4c69308\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\1147c3e040297ecd850cc7f8b4c69308\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\e2afc9d090f6ef2950d58e380e64d6de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\e2afc9d090f6ef2950d58e380e64d6de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\765a5145e30bf0682c239496c68ce2de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\765a5145e30bf0682c239496c68ce2de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\82ee34f2921e8957cbd713fe95af10b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\82ee34f2921e8957cbd713fe95af10b6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\666cc39739219d8a72a691ee2e050f67\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\666cc39739219d8a72a691ee2e050f67\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\4b2a26132d8ce2abda86bc396f986bf5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\4b2a26132d8ce2abda86bc396f986bf5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus-license:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-plus-license-11.6.0.aar\2108fa6a5da81ec3751a1be92d988249\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-plus-license:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-plus-license-11.6.0.aar\2108fa6a5da81ec3751a1be92d988249\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.6.0.aar\017095c5cd8fcd48d63c33b4e26d6e66\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.6.0.aar\017095c5cd8fcd48d63c33b4e26d6e66\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-location-license:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.6.0.aar\434fe3eb74a2b6beba5677fd4cc307d3\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-location-license:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.6.0.aar\434fe3eb74a2b6beba5677fd4cc307d3\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-gcm-license:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-gcm-license-11.6.0.aar\cd48fc1d1c959a9031db7f3c292059e2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-gcm-license:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-gcm-license-11.6.0.aar\cd48fc1d1c959a9031db7f3c292059e2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.0.aar\0c1172dadcadd500f136ee304c800a74\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.0.aar\0c1172dadcadd500f136ee304c800a74\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.0.aar\224c720d44a3e889123c2677453d8bb5\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.0.aar\224c720d44a3e889123c2677453d8bb5\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-license-11.6.0.aar\6b6b09656887e4e53dcb2eb86253fe2e\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-license-11.6.0.aar\6b6b09656887e4e53dcb2eb86253fe2e\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-license-11.6.0.aar\32302cb64e75b6aee722e6f04b636352\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-license-11.6.0.aar\32302cb64e75b6aee722e6f04b636352\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.0.aar\0b9e5359b4054840184dd8a4ea50a599\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.0.aar\0b9e5359b4054840184dd8a4ea50a599\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-iid-license:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-iid-license-11.6.0.aar\624be6b50731c75a4a46e5b52affb830\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-iid-license:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-iid-license-11.6.0.aar\624be6b50731c75a4a46e5b52affb830\AndroidManifest.xml:4:5-43
+INJECTED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml
+INJECTED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.2.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\76e102bd6560aa70534b94d1c484c7a2\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml
+		INJECTED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml
+		ADDED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml
+		INJECTED from W:\Nikola crypto\smartcar_crypto_android_provider\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.6.0.aar\e21774f3425416ebc1dfe076025efce7\AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.6.0.aar\e21774f3425416ebc1dfe076025efce7\AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.6.0.aar\e21774f3425416ebc1dfe076025efce7\AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.6.0.aar\e21774f3425416ebc1dfe076025efce7\AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.6.0.aar\e21774f3425416ebc1dfe076025efce7\AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.6.0.aar\e21774f3425416ebc1dfe076025efce7\AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.6.0.aar\e21774f3425416ebc1dfe076025efce7\AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.6.0.aar\e21774f3425416ebc1dfe076025efce7\AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.6.0.aar\e21774f3425416ebc1dfe076025efce7\AndroidManifest.xml:24:18-63
+activity#com.facebook.CustomTabActivity
+ADDED from [com.facebook.android:facebook-android-sdk:4.16.1] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.16.1.aar\9226a65ca9cf2ff1dfa6b397fadf1e2d\AndroidManifest.xml:33:9-36:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-android-sdk:4.16.1] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.16.1.aar\9226a65ca9cf2ff1dfa6b397fadf1e2d\AndroidManifest.xml:35:13-36
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.16.1] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.16.1.aar\9226a65ca9cf2ff1dfa6b397fadf1e2d\AndroidManifest.xml:34:13-58
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-android-sdk:4.16.1] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.16.1.aar\9226a65ca9cf2ff1dfa6b397fadf1e2d\AndroidManifest.xml:37:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.16.1] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.16.1.aar\9226a65ca9cf2ff1dfa6b397fadf1e2d\AndroidManifest.xml:37:19-68
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.0.aar\3c5b54f556eb84c33b8fcaa97b917284\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.0.aar\3c5b54f556eb84c33b8fcaa97b917284\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.0.aar\3c5b54f556eb84c33b8fcaa97b917284\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.0.aar\3c5b54f556eb84c33b8fcaa97b917284\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\fc685cfd5baac9697267551925c90816\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\fc685cfd5baac9697267551925c90816\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\asher\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\fc685cfd5baac9697267551925c90816\AndroidManifest.xml:20:20-65
